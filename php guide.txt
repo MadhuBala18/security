@@ -1,0 +1,15 @@
+mysql
+sudo apt-get install mysql-server
+mysql_secure_installation
+
+php
+sudo apt-get install php5-cli
+
+Mysqli install
+sudo apt-get install php-mysql
+
+Php run
+php -S localhost:8000 programname
+
+git install
+sudo apt-get install git
